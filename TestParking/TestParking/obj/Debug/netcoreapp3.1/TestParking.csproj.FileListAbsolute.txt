@@ -1,0 +1,14 @@
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.exe
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.deps.json
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.runtimeconfig.json
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.runtimeconfig.dev.json
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.dll
+D:\C#111\TestParking\TestParking\bin\Debug\netcoreapp3.1\TestParking.pdb
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.csproj.AssemblyReference.cache
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.AssemblyInfoInputs.cache
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.AssemblyInfo.cs
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.csproj.CoreCompileInputs.cache
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.dll
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.pdb
+D:\C#111\TestParking\TestParking\obj\Debug\netcoreapp3.1\TestParking.genruntimeconfig.cache
